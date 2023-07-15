@@ -1,3 +1,4 @@
-# quiz_mental_health
-# quiz_mental_health
-# quiz_mental_health
+
+# Quiz Mental Health
+
+This project is the development of the game "Rapid Tele-Psychotherapy" which aims to be an alternative solution to relieve stress. This game is specifically designed to help individuals find a place of serenity through virtual interaction and the use of effective psychotherapeutic techniques. By collecting data and information from game users, this study will analyze user responses and interactions in using games to relieve stress. The data collected will include quantitative data such as stress level scores and game usage time, as well as qualitative data in the form of user experience responses and descriptions. This research is expected to provide in-depth insight into the effectiveness of games in managing stress and provide recommendations for further development of this game as an effective solution to relieve stress and help individuals find peace for a moment.
